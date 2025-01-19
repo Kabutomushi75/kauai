@@ -14,7 +14,7 @@
       { "champion": "オリアナ", "winRate": 49.51, "pickRate": 7.93, "banRate": 2.48 ,"region": "KR"},
       { "champion": "カタリナ", "winRate": 51.08, "pickRate": 4.68, "banRate": 2.72 ,"region": "KR"},
       { "champion": "タロン", "winRate": 51.27, "pickRate": 3.94, "banRate": 0.97, "topPickRate": 2.46 ,"region": "KR"},
-      { "champion": "アジール", "winRate": 47.91, "pickRate": 4.01, "banRate": 0.41 ,"region": "KR"}
+      { "champion": "アジール", "winRate": 47.91, "pickRate": 4.01, "banRate": 0.41 ,"region": "KR"},
    
       { "champion": "ゼド", "winRate": 49.27, "pickRate": 6.72, "banRate": 16.6 ,"region": "EuropeEast"},
       { "champion": "アーリ", "winRate": 50.9, "pickRate": 13.87, "banRate": 8.38 ,"region": "EuropeEast" },
@@ -30,7 +30,7 @@
       { "champion": "リサンドラ", "winRate": 50.65, "pickRate": 5.48, "banRate": 3.35 ,"region": "EuropeEast" },
       { "champion": "ガリオ", "winRate": 51.11, "pickRate": 5.09, "banRate": 3.11 ,"region": "EuropeEast" },
       { "champion": "ラックス", "winRate": 50.83, "pickRate": 5.78, "banRate": 1.58 ,"region": "EuropeEast" },
-      { "champion": "ビクター", "winRate": 49.65, "pickRate": 4.81, "banRate": 0.83 ,"region": "EuropeEast" }
+      { "champion": "ビクター", "winRate": 49.65, "pickRate": 4.81, "banRate": 0.83 ,"region": "EuropeEast" },
    
       { "champion": "サイラス", "winRate": 50.28, "pickRate": 10.48, "banRate": 12.87 ,"region": "EuropeWest" },
       { "champion": "ルブラン", "winRate": 49.42, "pickRate": 4.63, "banRate": 18.72,"region": "EuropeWest"  },
@@ -46,7 +46,7 @@
       { "champion": "ガリオ", "winRate": 50.49, "pickRate": 5.32, "banRate": 3.64 ,"region": "EuropeWest" },
       { "champion": "オリアナ", "winRate": 48.96, "pickRate": 5.52, "banRate": 1.09 ,"region": "EuropeWest" },
       { "champion": "ビクター", "winRate": 48.59, "pickRate": 4.48, "banRate": 0.71,"region": "EuropeWest"  },
-      { "champion": "ラックス", "winRate": 49.74, "pickRate": 3.73, "banRate": 0.74,"region": "EuropeWest"  }
+      { "champion": "ラックス", "winRate": 49.74, "pickRate": 3.73, "banRate": 0.74,"region": "EuropeWest"  },
 
       { "champion": "ルブラン", "winRate": 49.5, "pickRate": 5.8, "banRate": 22.77 ,"region": "Global" },
       { "champion": "サイラス", "winRate": 50.02, "pickRate": 12.5, "banRate": 13.16,"region": "Global"  },
@@ -62,7 +62,7 @@
       { "champion": "ガリオ", "winRate": 50.87, "pickRate": 4.91, "banRate": 5.94 ,"region": "Global" },
       { "champion": "ビクター", "winRate": 49.1, "pickRate": 5.37, "banRate": 2.52 ,"region": "Global" },
       { "champion": "ラックス", "winRate": 50.49, "pickRate": 4.19, "banRate": 1.47,"region": "Global"  },
-      { "champion": "オリアナ", "winRate": 50.13, "pickRate": 5.45, "banRate": 0.91,"region": "Global"  }
+      { "champion": "オリアナ", "winRate": 50.13, "pickRate": 5.45, "banRate": 0.91,"region": "Global"  },
     
   
       { "champion": "サイラス", "winRate": 50.52, "pickRate": 11.16, "banRate": 14.4 ,"region": "Japan" },
@@ -79,7 +79,7 @@
       { "champion": "マルザハール", "winRate": 49.5, "pickRate": 5.67, "banRate": 5.79 ,"region": "Japan" },
       { "champion": "カタリナ", "winRate": 50.59, "pickRate": 4.78, "banRate": 5.03,"region": "Japan"  },
       { "champion": "スウェイン", "winRate": 47.17, "pickRate": 4.21, "banRate": 4.79,"region": "Japan"  },
-      { "champion": "ライズ", "winRate": 51.61, "pickRate": 5.11, "banRate": 0.86 ,"region": "Japan" }
+      { "champion": "ライズ", "winRate": 51.61, "pickRate": 5.11, "banRate": 0.86 ,"region": "Japan" },
 
 
       { "champion": "ヤスオ", "winRate": 55.09, "pickRate": 9.94, "banRate": 17.84,"region": "MiddleEast"  },
@@ -96,7 +96,7 @@
       { "champion": "ガリオ", "winRate": 54.91, "pickRate": 5.4, "banRate": 2.09 ,"region": "MiddleEast" },
       { "champion": "エコー", "winRate": 51.18, "pickRate": 5.09, "banRate": 1.02 ,"region": "MiddleEast" },
       { "champion": "アクシャン", "winRate": 52.94, "pickRate": 4.1, "banRate": 1.94 ,"region": "MiddleEast" },
-      { "champion": "ダイアナ", "winRate": 48.02, "pickRate": 4.27, "banRate": 1.65 ,"region": "MiddleEast" }
+      { "champion": "ダイアナ", "winRate": 48.02, "pickRate": 4.27, "banRate": 1.65 ,"region": "MiddleEast" },
     
       { "champion": "サイラス", "winRate": 48.2, "pickRate": 11.52, "banRate": 15.61 ,"region": "Oceania" },
       { "champion": "ルブラン", "winRate": 50.13, "pickRate": 4.39, "banRate": 17.9 ,"region": "Oceania"},
@@ -112,7 +112,7 @@
       { "champion": "フェイ", "winRate": 50.61, "pickRate": 5.66, "banRate": 5.93,"region": "Oceania" },
       { "champion": "タロン", "winRate": 53.34, "pickRate": 4.5, "banRate": 1.32 ,"region": "Oceania"},
       { "champion": "ビクター", "winRate": 48.4, "pickRate": 4.36, "banRate": 0.71 ,"region": "Oceania"},
-      { "champion": "オリアナ", "winRate": 47.81, "pickRate": 4.15, "banRate": 0.59,"region": "Oceania" }
+      { "champion": "オリアナ", "winRate": 47.81, "pickRate": 4.15, "banRate": 0.59,"region": "Oceania" },
 
       { "champion": "サイラス", "winRate": 49.95, "pickRate": 10.04, "banRate": 12.27 ,"region": "NA"},
       { "champion": "ヤスオ", "winRate": 49.27, "pickRate": 7.45, "banRate": 15.27,"region": "NA" },
@@ -128,7 +128,7 @@
       { "champion": "オーロラ", "winRate": 49.89, "pickRate": 5.11, "banRate": 6.7,"region": "NA" },
       { "champion": "ビクター", "winRate": 49.37, "pickRate": 4.7, "banRate": 4.56,"region": "NA" },
       { "champion": "ラックス", "winRate": 50.19, "pickRate": 4.17, "banRate": 3.62,"region": "NA" },
-      { "champion": "マルザハール", "winRate": 49.28, "pickRate": 3.78, "banRate": 3.98 ,"region": "NA"}
+      { "champion": "マルザハール", "winRate": 49.28, "pickRate": 3.78, "banRate": 3.98 ,"region": "NA"},
     
   }
   
