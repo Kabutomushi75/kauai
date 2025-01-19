@@ -1,117 +1,114 @@
-[
-    { champion: "ルブラン", winRate: 49.32, pickRate: 7.9, banRate: 45.12, region: "KR" },
-    { champion: "サイラス", winRate: 49.72, pickRate: 17.72, banRate: 18.82, region: "KR" },
-    { champion: "オーロラ", winRate: 49.34, pickRate: 7.28, banRate: 12.78, region: "KR" },
-    { champion: "ヨネ", winRate: 47.88, pickRate: 11.43, banRate: 8.53, region: "KR" },
-    { champion: "ヤスオ", winRate: 49.04, pickRate: 7.36, banRate: 11.83, region: "KR" },
-    { champion: "ゼド", winRate: 49.16, pickRate: 5.88, banRate: 11.78, region: "KR" },
-    { champion: "フェイ", winRate: 50.32, pickRate: 7.26, banRate: 9.47, region: "KR" },
-    { champion: "アカリ", winRate: 49.41, pickRate: 9.55, banRate: 6.64, region: "KR" },
-    { champion: "ヴェックス", winRate: 52.04, pickRate: 4.62, banRate: 10.27, region: "KR" },
-    { champion: "アーリ", winRate: 50.52, pickRate: 11, banRate: 2.6, region: "KR" },
-    { champion: "ガリオ", winRate: 50.32, pickRate: 7.94, banRate: 5.66, region: "KR" },
-    { champion: "オリアナ", winRate: 49.51, pickRate: 7.93, banRate: 2.48, region: "KR" },
-    { champion: "カタリナ", winRate: 51.08, pickRate: 4.68, banRate: 2.72, region: "KR" },
-    { champion: "タロン", winRate: 51.27, pickRate: 3.94, banRate: 0.97, topPickRate: 2.46, region: "KR" },
-    { champion: "アジール", winRate: 47.91, pickRate: 4.01, banRate: 0.41, region: "KR" },
-    { champion: "ゼド", winRate: 49.27, pickRate: 6.72, banRate: 16.6, region: "EuropeEast" },
-    { champion: "アーリ", winRate: 50.9, pickRate: 13.87, banRate: 8.38, region: "EuropeEast" },
-    { champion: "カタリナ", winRate: 49.94, pickRate: 8.41, banRate: 11.2, region: "EuropeEast" },
-    { champion: "ヤスオ", winRate: 49.65, pickRate: 7.83, banRate: 11.75, region: "EuropeEast" },
-    { champion: "シンドラ", winRate: 50.66, pickRate: 8.49, banRate: 10.0, region: "EuropeEast" },
-    { champion: "サイラス", winRate: 49.98, pickRate: 8.78, banRate: 9.12, region: "EuropeEast" },
-    { champion: "フェイ", winRate: 50.28, pickRate: 6.13, banRate: 8.43, region: "EuropeEast" },
-    { champion: "マルザハール", winRate: 51.61, pickRate: 5.26, banRate: 7.52, region: "EuropeEast" },
-    { champion: "ブラッドミア", winRate: 50.95, pickRate: 4.7, banRate: 7.37, region: "EuropeEast" },
-    { champion: "ヨネ", winRate: 47.7, pickRate: 5.52, banRate: 5.24, region: "EuropeEast" },
-    { champion: "アカリ", winRate: 49.56, pickRate: 4.99, banRate: 4.67, region: "EuropeEast" },
-    { champion: "リサンドラ", winRate: 50.65, pickRate: 5.48, banRate: 3.35, region: "EuropeEast" },
-    { champion: "ガリオ", winRate: 51.11, pickRate: 5.09, banRate: 3.11, region: "EuropeEast" },
-    { champion: "ラックス", winRate: 50.83, pickRate: 5.78, banRate: 1.58, region: "EuropeEast" },
-    { champion: "ビクター", winRate: 49.65, pickRate: 4.81, banRate: 0.83, region: "EuropeEast" },
-    { champion: "サイラス", winRate: 50.28, pickRate: 10.48, banRate: 12.87, region: "EuropeWest" },
-    { champion: "ルブラン", winRate: 49.42, pickRate: 4.63, banRate: 18.72, region: "EuropeWest" },
-    { champion: "アーリ", winRate: 51.34, pickRate: 13.69, banRate: 7.08, region: "EuropeWest" },
-    { champion: "シンドラ", winRate: 50.43, pickRate: 8.28, banRate: 10.42, region: "EuropeWest" },
-    { champion: "オーロラ", winRate: 50.13, pickRate: 5.58, banRate: 12.4, region: "EuropeWest" },
-    { champion: "ヤスオ", winRate: 48.96, pickRate: 6.88, banRate: 10.62, region: "EuropeWest" },
-    { champion: "カタリナ", winRate: 49.92, pickRate: 6.64, banRate: 9.46, region: "EuropeWest" },
-    { champion: "フェイ", winRate: 49.33, pickRate: 7.32, banRate: 8.1, region: "EuropeWest" },
-    { champion: "ゼド", winRate: 49.1, pickRate: 5.27, banRate: 9.78, region: "EuropeWest" },
-    { champion: "ヨネ", winRate: 48.53, pickRate: 6.77, banRate: 8.09, region: "EuropeWest" },
-    { champion: "アカリ", winRate: 49.84, pickRate: 6.13, banRate: 7.59, region: "EuropeWest" },
-    { champion: "ガリオ", winRate: 50.49, pickRate: 5.32, banRate: 3.64, region: "EuropeWest" },
-    { champion: "オリアナ", winRate: 48.96, pickRate: 5.52, banRate: 1.09, region: "EuropeWest" },
-    { champion: "ビクター", winRate: 48.59, pickRate: 4.48, banRate: 0.71, region: "EuropeWest" },
-    { champion: "ラックス", winRate: 49.74, pickRate: 3.73, banRate: 0.74, region: "EuropeWest" },
-    { champion: "ルブラン", winRate: 49.5, pickRate: 5.8, banRate: 22.77, region: "Global" },
-    { champion: "サイラス", winRate: 50.02, pickRate: 12.5, banRate: 13.16, region: "Global" },
-    { champion: "ヤスオ", winRate: 49.32, pickRate: 7.76, banRate: 13.54, region: "Global" },
-    { champion: "ゼド", winRate: 49.29, pickRate: 6.02, banRate: 13.38, region: "Global" },
-    { champion: "アーリ", winRate: 51.19, pickRate: 12.19, banRate: 5.83, region: "Global" },
-    { champion: "オーロラ", winRate: 50.09, pickRate: 5.24, banRate: 10.96, region: "Global" },
-    { champion: "カタリナ", winRate: 50.52, pickRate: 5.07, banRate: 9.25, region: "Global" },
-    { champion: "アカリ", winRate: 49.63, pickRate: 5.87, banRate: 8.32, region: "Global" },
-    { champion: "フェイ", winRate: 50.44, pickRate: 7.66, banRate: 6.42, region: "Global" },
-    { champion: "シンドラ", winRate: 51.44, pickRate: 8.67, banRate: 8.03, region: "Global" }
-{ champion: "サイラス", winRate: 50.52, pickRate: 11.16, banRate: 14.4, region: "Japan" },
-{ champion: "ルブラン", winRate: 48.13, pickRate: 5.08, banRate: 16.96, region: "Japan" },
-{ champion: "オーロラ", winRate: 49.42, pickRate: 7.34, banRate: 12.31, region: "Japan" },
-{ champion: "フェイ", winRate: 50.44, pickRate: 8.64, banRate: 9.42, region: "Japan" },
-{ champion: "ガリオ", winRate: 50.68, pickRate: 8.52, banRate: 8.54, region: "Japan" },
-{ champion: "ヨネ", winRate: 47.05, pickRate: 8.07, banRate: 6.53, region: "Japan" },
-{ champion: "アカリ", winRate: 50.32, pickRate: 6.24, banRate: 7.65, region: "Japan" },
-{ champion: "ヴェックス", winRate: 50.55, pickRate: 4.39, banRate: 9.45, region: "Japan" },
-{ champion: "ヤスオ", winRate: 47.63, pickRate: 6.39, banRate: 7.41, region: "Japan" },
-{ champion: "ゼド", winRate: 50.41, pickRate: 4.87, banRate: 8.77, region: "Japan" },
-{ champion: "アーリ", winRate: 49.85, pickRate: 9.75, banRate: 3.45, region: "Japan" },
-{ champion: "マルザハール", winRate: 49.5, pickRate: 5.67, banRate: 5.79, region: "Japan" },
-{ champion: "カタリナ", winRate: 50.59, pickRate: 4.78, banRate: 5.03, region: "Japan" },
-{ champion: "スウェイン", winRate: 47.17, pickRate: 4.21, banRate: 4.79, region: "Japan" },
-{ champion: "ライズ", winRate: 51.61, pickRate: 5.11, banRate: 0.86, region: "Japan" },
-{ champion: "ヤスオ", winRate: 55.09, pickRate: 9.94, banRate: 17.84, region: "MiddleEast" },
-{ champion: "ゼド", winRate: 48.16, pickRate: 10.52, banRate: 16.94, region: "MiddleEast" },
-{ champion: "マルザハール", winRate: 55.15, pickRate: 8.66, banRate: 11.0, region: "MiddleEast" },
-{ champion: "サイラス", winRate: 49.01, pickRate: 9.84, banRate: 9.02, region: "MiddleEast" },
-{ champion: "フィズ", winRate: 53.87, pickRate: 6.54, banRate: 8.59, region: "MiddleEast" },
-{ champion: "カタリナ", winRate: 52.99, pickRate: 5.64, banRate: 7.53, region: "MiddleEast" },
-{ champion: "アーリ", winRate: 53.75, pickRate: 8.35, banRate: 4.4, region: "MiddleEast" },
-{ champion: "フェイ", winRate: 47.5, pickRate: 6.29, banRate: 6.44, region: "MiddleEast" },
-{ champion: "アカリ", winRate: 51.42, pickRate: 4.22, banRate: 6.6, region: "MiddleEast" },
-{ champion: "ヨネ", winRate: 49.58, pickRate: 5.84, banRate: 4.45, region: "MiddleEast" },
-{ champion: "アニビア", winRate: 53.97, pickRate: 4.24, banRate: 3.56, region: "MiddleEast" },
-{ champion: "ガリオ", winRate: 54.91, pickRate: 5.4, banRate: 2.09, region: "MiddleEast" },
-{ champion: "エコー", winRate: 51.18, pickRate: 5.09, banRate: 1.02, region: "MiddleEast" },
-{ champion: "アクシャン", winRate: 52.94, pickRate: 4.1, banRate: 1.94, region: "MiddleEast" },
-{ champion: "ダイアナ", winRate: 48.02, pickRate: 4.27, banRate: 1.65, region: "MiddleEast" },
-{ champion: "サイラス", winRate: 48.2, pickRate: 11.52, banRate: 15.61, region: "Oceania" },
-{ champion: "ルブラン", winRate: 50.13, pickRate: 4.39, banRate: 17.9, region: "Oceania" },
-{ champion: "ガリオ", winRate: 50.74, pickRate: 8.79, banRate: 11.42, region: "Oceania" },
-{ champion: "アーリ", winRate: 49.98, pickRate: 12.64, banRate: 7.28, region: "Oceania" },
-{ champion: "ヤスオ", winRate: 50.93, pickRate: 7.0, banRate: 10.74, region: "Oceania" },
-{ champion: "カタリナ", winRate: 48.65, pickRate: 6.03, banRate: 10.04, region: "Oceania" },
-{ champion: "オーロラ", winRate: 49.91, pickRate: 4.52, banRate: 9.91, region: "Oceania" },
-{ champion: "ヨネ", winRate: 47.57, pickRate: 7.72, banRate: 6.58, region: "Oceania" },
-{ champion: "アカリ", winRate: 49.07, pickRate: 5.83, banRate: 7.88, region: "Oceania" },
-{ champion: "ゼド", winRate: 49.01, pickRate: 4.87, banRate: 7.22, region: "Oceania" },
-{ champion: "シンドラ", winRate: 48.1, pickRate: 6.52, banRate: 5.46, region: "Oceania" },
-{ champion: "フェイ", winRate: 50.61, pickRate: 5.66, banRate: 5.93, region: "Oceania" },
-{ champion: "タロン", winRate: 53.34, pickRate: 4.5, banRate: 1.32, region: "Oceania" },
-{ champion: "ビクター", winRate: 48.4, pickRate: 4.36, banRate: 0.71, region: "Oceania" },
-{ champion: "オリアナ", winRate: 47.81, pickRate: 4.15, banRate: 0.59, region: "Oceania" },
-{ champion: "サイラス", winRate: 49.95, pickRate: 10.04, banRate: 12.27, region: "NA" },
-{ champion: "ヤスオ", winRate: 49.27, pickRate: 7.45, banRate: 15.27, region: "NA" },
-{ champion: "アーリ", winRate: 49.8, pickRate: 12.87, banRate: 7.97, region: "NA" },
-{ champion: "ゼド", winRate: 48.98, pickRate: 6.35, banRate: 13.69, region: "NA" },
-{ champion: "ルブラン", winRate: 48.64, pickRate: 4.74, banRate: 15.38, region: "NA" },
-{ champion: "フェイ", winRate: 49.13, pickRate: 6.82, banRate: 10.47, region: "NA" },
-{ champion: "カタリナ", winRate: 49.86, pickRate: 6.04, banRate: 9.19, region: "NA" },
-{ champion: "シンドラ", winRate: 50.26, pickRate: 6.79, banRate: 10.33, region: "NA" },
-{ champion: "ヨネ", winRate: 48.09, pickRate: 7.28, banRate: 7.43, region: "NA" },
-{ champion: "ガリオ", winRate: 51.42, pickRate: 7.21, banRate: 5.51, region: "NA" },
-{ champion: "アカリ", winRate: 50.59, pickRate: 5.42, banRate: 6.38, region: "NA" },
-{ champion: "オーロラ", winRate: 51.0, pickRate: 5.2, banRate: 7.3, region: "NA" },
-{ champion: "ゼド", winRate: 49.81, pickRate: 6.22, banRate: 8.17, region: "NA" }
-
-  ]
-  
+champion	winRate	pickRate	banRate	region
+ルブラン	49.32	7.9	45.12	KR
+サイラス	49.72	17.72	18.82	KR
+オーロラ	49.34	7.28	12.78	KR
+ヨネ	47.88	11.43	8.53	KR
+ヤスオ	49.04	7.36	11.83	KR
+ゼド	49.16	5.88	11.78	KR
+フェイ	50.32	7.26	9.47	KR
+アカリ	49.41	9.55	6.64	KR
+ヴェックス	52.04	4.62	10.27	KR
+アーリ	50.52	11	2.6	KR
+ガリオ	50.32	7.94	5.66	KR
+オリアナ	49.51	7.93	2.48	KR
+カタリナ	51.08	4.68	2.72	KR
+タロン	51.27	3.94	0.97	KR
+アジール	47.91	4.01	0.41	KR
+ゼド	49.27	6.72	16.6	EuropeEast
+アーリ	50.9	13.87	8.38	EuropeEast
+カタリナ	49.94	8.41	11.2	EuropeEast
+ヤスオ	49.65	7.83	11.75	EuropeEast
+シンドラ	50.66	8.49	10.0	EuropeEast
+サイラス	49.98	8.78	9.12	EuropeEast
+フェイ	50.28	6.13	8.43	EuropeEast
+マルザハール	51.61	5.26	7.52	EuropeEast
+ブラッドミア	50.95	4.7	7.37	EuropeEast
+ヨネ	47.7	5.52	5.24	EuropeEast
+アカリ	49.56	4.99	4.67	EuropeEast
+リサンドラ	50.65	5.48	3.35	EuropeEast
+ガリオ	51.11	5.09	3.11	EuropeEast
+ラックス	50.83	5.78	1.58	EuropeEast
+ビクター	49.65	4.81	0.83	EuropeEast
+サイラス	50.28	10.48	12.87	EuropeWest
+ルブラン	49.42	4.63	18.72	EuropeWest
+アーリ	51.34	13.69	7.08	EuropeWest
+シンドラ	50.43	8.28	10.42	EuropeWest
+オーロラ	50.13	5.58	12.4	EuropeWest
+ヤスオ	48.96	6.88	10.62	EuropeWest
+カタリナ	49.92	6.64	9.46	EuropeWest
+フェイ	49.33	7.32	8.1	EuropeWest
+ゼド	49.1	5.27	9.78	EuropeWest
+ヨネ	48.53	6.77	8.09	EuropeWest
+アカリ	49.84	6.13	7.59	EuropeWest
+ガリオ	50.49	5.32	3.64	EuropeWest
+オリアナ	48.96	5.52	1.09	EuropeWest
+ビクター	48.59	4.48	0.71	EuropeWest
+ラックス	49.74	3.73	0.74	EuropeWest
+ルブラン	49.5	5.8	22.77	Global
+サイラス	50.02	12.5	13.16	Global
+ヤスオ	49.32	7.76	13.54	Global
+ゼド	49.29	6.02	13.38	Global
+アーリ	51.19	12.19	5.83	Global
+オーロラ	50.09	5.24	10.96	Global
+カタリナ	50.52	5.07	9.25	Global
+アカリ	49.63	5.87	8.32	Global
+フェイ	50.44	7.66	6.42	Global
+シンドラ	51.44	8.67	8.03	Global
+サイラス	50.52	11.16	14.4	Japan
+ルブラン	48.13	5.08	16.96	Japan
+オーロラ	49.42	7.34	12.31	Japan
+フェイ	50.44	8.64	9.42	Japan
+ガリオ	50.68	8.52	8.54	Japan
+ヨネ	47.05	8.07	6.53	Japan
+アカリ	50.32	6.24	7.65	Japan
+ヴェックス	50.55	4.39	9.45	Japan
+ヤスオ	47.63	6.39	7.41	Japan
+ゼド	50.41	4.87	8.77	Japan
+アーリ	49.85	9.75	3.45	Japan
+マルザハール	49.5	5.67	5.79	Japan
+カタリナ	50.59	4.78	5.03	Japan
+スウェイン	47.17	4.21	4.79	Japan
+ライズ	51.61	5.11	0.86	Japan
+ヤスオ	55.09	9.94	17.84	MiddleEast
+ゼド	48.16	10.52	16.94	MiddleEast
+マルザハール	55.15	8.66	11.0	MiddleEast
+サイラス	49.01	9.84	9.02	MiddleEast
+フィズ	53.87	6.54	8.59	MiddleEast
+カタリナ	52.99	5.64	7.53	MiddleEast
+アーリ	53.75	8.35	4.4	MiddleEast
+フェイ	47.5	6.29	6.44	MiddleEast
+アカリ	51.42	4.22	6.6	MiddleEast
+ヨネ	49.58	5.84	4.45	MiddleEast
+アニビア	53.97	4.24	3.56	MiddleEast
+ガリオ	54.91	5.4	2.09	MiddleEast
+エコー	51.18	5.09	1.02	MiddleEast
+アクシャン	52.94	4.1	1.94	MiddleEast
+ダイアナ	48.02	4.27	1.65	MiddleEast
+サイラス	48.2	11.52	15.61	Oceania
+ルブラン	50.13	4.39	17.9	Oceania
+ガリオ	50.74	8.79	11.42	Oceania
+アーリ	49.98	12.64	7.28	Oceania
+ヤスオ	50.93	7.0	10.74	Oceania
+カタリナ	48.65	6.03	10.04	Oceania
+オーロラ	49.91	4.52	9.91	Oceania
+ヨネ	47.57	7.72	6.58	Oceania
+アカリ	49.07	5.83	7.88	Oceania
+ゼド	49.01	4.87	7.22	Oceania
+シンドラ	48.1	6.52	5.46	Oceania
+フェイ	50.23	6.78	6.11	Oceania
+タロン	53.34	4.5	1.32	Oceania
+ビクター	48.4	4.36	0.71	Oceania
+オリアナ	47.81	4.15	0.59	Oceania
+サイラス	49.95	10.04	12.27	NA
+ヤスオ	49.27	7.45	15.27	NA
+アーリ	49.8	12.87	7.97	NA
+ゼド	48.98	6.35	13.69	NA
+ルブラン	48.64	4.74	15.38	NA
+フェイ	49.13	6.82	10.47	NA
+カタリナ	49.86	6.04	9.19	NA
+シンドラ	50.26	6.79	10.33	NA
+ヨネ	48.09	7.28	7.43	NA
+ガリオ	51.42	7.21	5.51	NA
+アカリ	50.59	5.42	6.38	NA
+オーロラ	51.0	5.2	7.3	NA
+ゼド	49.81	6.22	8.17	NA
